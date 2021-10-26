@@ -1,12 +1,35 @@
-.bgcolor
+.logo
 {
-    background-color: #1c542d;
-}
-.nom
-{
-    font-family: brush script, cursive;
+    
 }
 .police
 {
     font-family: Apple Chancery, cursive;
+}
+.sable
+{
+    color: #cfab6d;
+}
+.bgfooter
+{
+    background-color: #7b2e24;
+}
+footer
+{
+    bottom: 0;
+    position: relative;
+}
+*
+{
+    overflow: hidden;
+}
+#adresse
+{
+margin: 10px;
+padding: 10px;
+}
+#tel
+{
+    margin: 10px;
+    padding: 10px;
 }
