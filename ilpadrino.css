@@ -1,12 +1,31 @@
-.bgcolor
-{
-    background-color: #1c542d;
-}
-.nom
-{
-    font-family: brush script, cursive;
-}
-.police
-{
+
+.titreMenus {
     font-family: Apple Chancery, cursive;
+    color: white;
+}
+body {
+    background-color: #426D49;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.vertical-line {
+    border-left: 2px solid #CFAB6D;
+    display: inline-block;
+    height: 170px;
+    margin: 0 20px;
+  }
+
+img {
+    width: 400px;
+    height: 300px;
+}
+#slide1 {
+    border: 2px solid #CFAB6D;
+}
+#slide2 {
+    border: 2px solid #CFAB6D;
+}
+.bordeaux {
+    background-color: #7B2E24;
 }
