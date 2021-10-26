@@ -1,7 +1,3 @@
-.logo
-{
-    
-}
 .police
 {
     font-family: Apple Chancery, cursive;
@@ -19,10 +15,7 @@ footer
     bottom: 0;
     position: relative;
 }
-*
-{
-    overflow: hidden;
-}
+
 #adresse
 {
 margin: 10px;
@@ -32,4 +25,35 @@ padding: 10px;
 {
     margin: 10px;
     padding: 10px;
+}
+.titreMenus {
+    font-family: Apple Chancery, cursive;
+    color: white;
+}
+body {
+    background-color: #426D49;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.vertical-line {
+    border-left: 2px solid #CFAB6D;
+    display: inline-block;
+    height: 170px;
+    margin: 0 20px;
+  }
+
+img {
+    width: 400px;
+    height: 300px;
+    opacity: 0.8;
+}
+#slide1 {
+    border: 2px solid #CFAB6D;
+}
+#slide2 {
+    border: 2px solid #CFAB6D;
+}
+.bordeaux {
+    background-color: #7B2E24;
 }
