@@ -1,12 +1,7 @@
-.bgcolor
-{
-    background-color: #1c542d;
-}
-.nom
-{
-    font-family: brush script, cursive;
-}
-.police
-{
-    font-family: Apple Chancery, cursive;
+
+/* Slide principal */
+
+.imageRestau {
+        width: 100%;
+        height: 400px;
 }
