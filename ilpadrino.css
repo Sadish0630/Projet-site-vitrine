@@ -1,12 +1,79 @@
+body{
+    background-color: #426D49;
+}
+
 .bgcolor
 {
-    background-color: #1c542d;
+    background-color: #426D49;
 }
 .nom
 {
     font-family: brush script, cursive;
 }
-.police
+.police-apple
 {
     font-family: Apple Chancery, cursive;
 }
+.introduction{
+    font-size: 18px;
+}
+#navbar{
+    background-color: #7B2E24;
+}
+.navbar-brand{
+    color: white;
+}
+.dropdown-menu{
+    background-color: #c5a46bea;
+}
+.navbar-nav{
+    font-family: Helvetica;
+}
+#reservez{
+    rotate: 90deg;
+    font-size: 32px;
+}
+.rouge{
+    background-color: #7B2E24;
+    border: 2.5px solid #c5a46bea;
+    height: 46px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 5%;
+}
+ .position{
+     position: fixed;
+     top: 170px;
+     right: 0;
+     margin: 0;
+     left: 69%;
+ }
+ 
+
+ @media screen and (min-width: 768px)
+ {
+
+    .position{
+        position: fixed;
+        top: 220px;
+        right: 0;
+        margin: 0;
+        left: 89.5%
+    }
+
+    .rouge{
+        height: auto;
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+
+    #reservez{
+        font-size: 41px;
+    }
+
+    .introduction{
+        font-size: 22px;
+    }
+
+ }
+ 
