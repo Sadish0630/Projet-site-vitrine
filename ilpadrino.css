@@ -10,3 +10,118 @@
 {
     font-family: Apple Chancery, cursive;
 }
+
+.titre 
+{
+    color: white;
+    text-transform: uppercase;
+}
+
+.soustitre 
+{
+    color: white;
+    margin-bottom: 50px;
+}
+
+
+
+.TailleImages
+{
+    /* width: 130px; */
+    max-height: 280px;
+    border: 1px solid #CFAB6D;
+
+}
+
+
+
+
+.horizontal-line
+{
+    width: 150px;
+    height: 15px;
+    display: inline-block;
+    border-top: 2px solid #CFAB6D;
+}
+
+.boisson-line
+{
+    display: inline-block;
+    border-bottom: 1px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#descriptioncocktail
+{
+    font-size: small;
+    text-align: left;
+
+}
+
+
+#cocktail
+{
+    width: 125px;
+}
+
+
+#diabolo
+{
+    width: 120px;
+}
+
+#schweppes
+{
+    width: 170px;
+}
+
+#sprite
+{
+    width: 210px;
+}
+
+#perrier
+{
+    width: 205px;
+}
+
+#fuze-tea
+{
+    width: 190px;
+}
+
+#virginframboise
+{
+    width: 85px;
+}
+
+#virginmojito
+{
+    width: 160px;
+}
+
+#limonade
+{
+    width: 185px;
+}
+
+#fanta
+{
+    width: 215px;
+}
+
+#orangina
+{
+    width: 190px;
+}
+
+#cocacherry
+{
+    width: 170px;
+}
+
+#cocacola
+{
+    width: 185px;
+}
