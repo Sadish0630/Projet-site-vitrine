@@ -14,7 +14,6 @@
 .titre 
 {
     color: white;
-    text-transform: uppercase;
 }
 
 .soustitre 
@@ -23,7 +22,10 @@
     margin-bottom: 50px;
 }
 
-
+.titreMenus {
+    font-family: Apple Chancery, cursive;
+    color: white;
+}
 
 .TailleImages
 {
@@ -64,7 +66,6 @@
 {
     width: 125px;
 }
-
 
 #diabolo
 {
@@ -125,3 +126,8 @@
 {
     width: 185px;
 }
+
+#slide3 {
+    border: 2px solid #CFAB6D;
+}
+
