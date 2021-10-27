@@ -1,12 +1,65 @@
-.bgcolor
+#spritz
 {
-    background-color: #1c542d;
+    width: 216px;
 }
-.nom
+
+
+#limoncello
 {
-    font-family: brush script, cursive;
+    width: 136px;
 }
-.police
+
+#bellini
 {
-    font-family: Apple Chancery, cursive;
+    width: 218px;
+}
+
+#daïquiri
+{
+    width: 200px;
+}
+
+#rhumCoca
+{
+    width: 172px;
+}
+
+#whiskyCoca
+{
+    width: 162px;
+}
+
+#barbottage
+{
+    width: 176px;
+}
+
+#kir
+{
+    width: 62px;
+}
+
+#prosecco
+{
+    width: 100px;
+}
+
+#caïpirinha
+{
+    width: 196px;
+}
+
+#framboise
+{
+    width: 148px;
+}
+
+#gin
+{
+    width: 68px;
+}
+
+#vodka
+{
+    width: 158px;
 }
