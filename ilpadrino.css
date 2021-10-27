@@ -1,7 +1,15 @@
-<<<<<<< HEAD
 .police
 {
     font-family: Apple Chancery, cursive;
+}
+body
+{
+    background-color: #426D49;
+}
+
+.bgcolor
+{
+    background-color: #426D49;
 }
 .sable
 {
@@ -9,7 +17,11 @@
 }
 .bgfooter
 {
-    background-color: #7b2e24;
+    background-color: #7b2e24 ;
+}
+.police-apple
+{
+    font-family: Apple Chancery, cursive;
 }
 footer
 {
@@ -33,9 +45,6 @@ padding: 10px;
 }
 body {
     background-color: #426D49;
-}
-p {
-    font-family: 'Times New Roman', Times, serif;
 }
 .vertical-line {
     border-left: 2px solid #CFAB6D;
@@ -61,7 +70,6 @@ img {
 .titre 
 {
     color: white;
-    text-transform: uppercase;
 }
 
 .soustitre 
@@ -238,3 +246,66 @@ img {
       background-image: url("img/mediterranean-cuisine-g6ba7131c4_640.jpg");
 opacity: 0.5;
   }
+.introduction{
+    font-size: 18px;
+}
+#navbar{
+    background-color: #7B2E24;
+}
+.navbar-brand{
+    color: white;
+}
+.dropdown-menu{
+    background-color: #c5a46bea;
+}
+.navbar-nav{
+    font-family: Helvetica;
+}
+#reservez{
+    transform: rotate(90deg);
+    font-size: 32px;
+    z-index: 5;
+}
+.rouge{
+    background-color: #7B2E24;
+    border: 2.5px solid #c5a46bea;
+    height: 46px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 5%;
+}
+ .position{
+     position: fixed;
+     top: 170px;
+     right: 0;
+     margin: 0;
+     left: 69%;
+ }
+ 
+
+ @media screen and (min-width: 768px)
+ {
+
+    .position{
+        position: fixed;
+        top: 220px;
+        right: 0;
+        margin: 0;
+        left: 89.5%
+    }
+
+    .rouge{
+        height: auto;
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+
+    #reservez{
+        font-size: 41px;
+    }
+
+    .introduction
+    {
+        font-size: 22px;
+    }
+}
