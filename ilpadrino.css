@@ -302,10 +302,31 @@ opacity: 0.5;
 
     #reservez{
         font-size: 41px;
+
     }
 
     .introduction
     {
         font-size: 22px;
     }
+}
+
+/* Slide principal */
+
+.imageRestau {
+        width: 80%;
+        height: 400px;
+}
+#slide3 {
+    border: 2px solid #CFAB6D;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover
+{
+    color: #c5a46bea;
 }
