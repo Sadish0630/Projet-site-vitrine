@@ -330,3 +330,18 @@ a:hover
 {
     color: #c5a46bea;
 }
+.image img {
+    -webkit-transition: all 1s ease; 
+    -moz-transition: all 1s ease; 
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.image:hover img {
+    -webkit-transform:scale(1.10); 
+    -moz-transform:scale(1.10); 
+    -ms-transform:scale(1.10); 
+    -o-transform:scale(1.10);
+     transform:scale(1.10);
+}
